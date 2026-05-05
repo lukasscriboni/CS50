@@ -1,0 +1,23 @@
+HTML Tags Used:
+
+1. html - Root element that contains the entire webpage.
+2. head - Contains metadata, links to CSS, and scripts.
+3. body - Holds all visible content of the page.
+4. header - Displays the main title of the website.
+5. nav - Contains the navigation menu.
+6. section - Groups the main content of the page.
+7. article - Represents individual product cards (wines).
+8. aside - Displays the sidebar with additional content.
+9. footer - Shows footer information of the website.
+10. button - Used for interactions like "Ver Mas" and Bootstrap components.
+
+CSS Properties Used:
+
+1. background-color - Sets the background color of elements.
+2. display - Controls how elements are shown (grid, flex, none, etc.).
+3. border - Defines borders around elements.
+4. padding - Adds space inside elements.
+5. width - Controls the width of elements.
+
+JavaScript and Bootstrap Usage:
+JavaScript was used to add interactivity by toggling hidden content inside each article, while Bootstrap was used to implement responsive components such as the offcanvas menu for contact links.
